@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/CHIHUIMardarin/static/css/main.5e5925ca.css",
+    "main.js": "/CHIHUIMardarin/static/js/main.ccfe7922.js",
+    "static/media/person-hero-2.webp": "/CHIHUIMardarin/static/media/person-hero-2.d6b33f88fe7a7559d9bc.webp",
+    "static/media/bg-hero-2.webp": "/CHIHUIMardarin/static/media/bg-hero-2.89839873d3804e4a4b21.webp",
+    "static/media/sample5.webp": "/CHIHUIMardarin/static/media/sample5.93d6081ce72446c1cfff.webp",
+    "static/media/logo.jpg": "/CHIHUIMardarin/static/media/logo.29cae293ba59c630947c.jpg",
+    "static/media/banner02.webp": "/CHIHUIMardarin/static/media/banner02.022c38cd076d628efa4f.webp",
+    "static/media/sample2.webp": "/CHIHUIMardarin/static/media/sample2.472116696128df746aa7.webp",
+    "static/media/sample3.webp": "/CHIHUIMardarin/static/media/sample3.2a4f0b05de2e1642e8a0.webp",
+    "static/media/sample4.webp": "/CHIHUIMardarin/static/media/sample4.03c454105a2afec57fa0.webp",
+    "static/media/banner03.webp": "/CHIHUIMardarin/static/media/banner03.4125e14fcffaa31889b0.webp",
+    "static/media/sample1.webp": "/CHIHUIMardarin/static/media/sample1.e4b89d26d73b5710e95a.webp",
+    "static/media/person.webp": "/CHIHUIMardarin/static/media/person.c7ab672c0785ae8cee63.webp",
+    "static/media/team3.webp": "/CHIHUIMardarin/static/media/team3.a49b4c9cbc4836e3ef73.webp",
+    "static/media/team1.webp": "/CHIHUIMardarin/static/media/team1.4881a8c08dcd8721cab5.webp",
+    "static/media/team4.webp": "/CHIHUIMardarin/static/media/team4.d9ec6003e33cd19a7693.webp",
+    "static/media/Courses4.webp": "/CHIHUIMardarin/static/media/Courses4.dfd320d0d50499f58d63.webp",
+    "static/media/team2.webp": "/CHIHUIMardarin/static/media/team2.6cddd7caf493d4c9d22c.webp",
+    "static/media/Courses5.webp": "/CHIHUIMardarin/static/media/Courses5.7683c2b7d1b945dc322a.webp",
+    "static/media/Courses3.webp": "/CHIHUIMardarin/static/media/Courses3.00d1ec7953918a748aaa.webp",
+    "static/media/Courses2.webp": "/CHIHUIMardarin/static/media/Courses2.ae6388f22946e187464d.webp",
+    "static/media/Courses1.webp": "/CHIHUIMardarin/static/media/Courses1.30cebd1cf02d944a4824.webp",
+    "index.html": "/CHIHUIMardarin/index.html",
+    "main.5e5925ca.css.map": "/CHIHUIMardarin/static/css/main.5e5925ca.css.map",
+    "main.ccfe7922.js.map": "/CHIHUIMardarin/static/js/main.ccfe7922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e5925ca.css",
+    "static/js/main.ccfe7922.js"
+  ]
+}

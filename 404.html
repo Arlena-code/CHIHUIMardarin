@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CHIHUI Mandarin - Page Not Found</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: linear-gradient(135deg, #07284b 0%, #9f2122 100%);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        text-align: center;
+      }
+      .container {
+        max-width: 600px;
+        padding: 40px 20px;
+      }
+      h1 {
+        font-size: 3rem;
+        margin-bottom: 20px;
+        font-weight: 700;
+      }
+      p {
+        font-size: 1.2rem;
+        margin-bottom: 30px;
+        opacity: 0.9;
+      }
+      .btn {
+        display: inline-block;
+        background-color: #9f2122;
+        color: white;
+        padding: 15px 30px;
+        text-decoration: none;
+        border-radius: 8px;
+        font-weight: 600;
+        transition: all 0.3s ease;
+        margin: 10px;
+      }
+      .btn:hover {
+        background-color: #8a1e1f;
+        transform: translateY(-2px);
+      }
+      .loading {
+        margin-top: 30px;
+        font-size: 1rem;
+        opacity: 0.8;
+      }
+    </style>
+    <script type="text/javascript">
+      // Redirect to home page for React Router
+      // This handles client-side routing for cPanel hosting
+      (function() {
+        // Show loading message
+        document.addEventListener('DOMContentLoaded', function() {
+          var loadingEl = document.createElement('div');
+          loadingEl.className = 'loading';
+          loadingEl.innerHTML = 'Redirecting to home page...';
+          document.querySelector('.container').appendChild(loadingEl);
+          
+          // Redirect to home page after a short delay
+          setTimeout(function() {
+            window.location.href = '/';
+          }, 2000);
+        });
+      })();
+    </script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>404</h1>
+      <p>Sorry, the page you're looking for doesn't exist.</p>
+      <a href="/" class="btn">Go Home</a>
+      <a href="/aboutus" class="btn">About Us</a>
+      <a href="/courses" class="btn">Courses</a>
+      <a href="/contact" class="btn">Contact</a>
+    </div>
+  </body>
+</html>
