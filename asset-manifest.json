@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CHIHUIMardarin/static/css/main.5e5925ca.css",
-    "main.js": "/CHIHUIMardarin/static/js/main.ccfe7922.js",
+    "main.js": "/CHIHUIMardarin/static/js/main.bf92ca9c.js",
     "static/media/person-hero-2.webp": "/CHIHUIMardarin/static/media/person-hero-2.d6b33f88fe7a7559d9bc.webp",
     "static/media/bg-hero-2.webp": "/CHIHUIMardarin/static/media/bg-hero-2.89839873d3804e4a4b21.webp",
     "static/media/sample5.webp": "/CHIHUIMardarin/static/media/sample5.93d6081ce72446c1cfff.webp",
@@ -24,10 +24,10 @@
     "static/media/Courses1.webp": "/CHIHUIMardarin/static/media/Courses1.30cebd1cf02d944a4824.webp",
     "index.html": "/CHIHUIMardarin/index.html",
     "main.5e5925ca.css.map": "/CHIHUIMardarin/static/css/main.5e5925ca.css.map",
-    "main.ccfe7922.js.map": "/CHIHUIMardarin/static/js/main.ccfe7922.js.map"
+    "main.bf92ca9c.js.map": "/CHIHUIMardarin/static/js/main.bf92ca9c.js.map"
   },
   "entrypoints": [
     "static/css/main.5e5925ca.css",
-    "static/js/main.ccfe7922.js"
+    "static/js/main.bf92ca9c.js"
   ]
 }
